@@ -1,0 +1,27 @@
+.imgTshirt {
+    position: absolute;
+}
+.memeText {
+     position: absolute;
+     top: 120px;
+     left: 250px;
+     cursor: move;
+}
+
+.memeText img {
+   
+    max-width: 180px;
+    border: #2c2a2a solid 5px;
+}
+    
+    I
+.memeText p {
+    font-family: Impact, Charcoal, sans-serif;
+    color:#fff;
+}
+.lower Text p {
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+}
+
+
